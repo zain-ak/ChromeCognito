@@ -1,4 +1,6 @@
-![alt text](https://github.com/zain-ak/ChromeCognito/blob/master/resources/img.png "Cognito Chrome Icon") # ChromeCognito 
+# ChromeCognito
+
+![alt text](https://github.com/zain-ak/ChromeCognito/blob/master/resources/img.png "Cognito Chrome Icon")  
 
 A simple AppleScript script to open a new Google Chrome window in incognito mode with a specific user profile. 
 
