@@ -8,6 +8,6 @@ A simple AppleScript script to open a new Google Chrome window in incognito mode
 
 An additional script which asks if you want to connect to a VPN configuration using Tunnelblick before the window opens.
 
-**Note:** You'll want to change the ```vpn_configuration_name``` to whatever name you've given your desired configuration on Tunnelblick.
+**Note:** You'll want to change the ```vpn_configuration_name``` in the script to whatever name you've given your desired configuration on Tunnelblick.
 
 I've uploaded two custom icons (in resources) that I designed for fun; you can save the script as a .app file and run it like you would any other application. Now it has a cool icon to boot xD
