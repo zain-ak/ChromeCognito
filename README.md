@@ -11,3 +11,7 @@ An additional script which asks if you want to connect to a VPN configuration us
 **Note:** You'll want to change the ```vpn_configuration_name``` in the script to whatever name you've given your desired configuration on Tunnelblick.
 
 I've uploaded two custom icons (in resources) that I designed for fun; you can save the script as a .app file and run it like you would any other application. Now it has a cool icon to boot xD
+
+<h3>Instructions for saving as an application</h3>
+```File``` > ```Export``` > Choose name, location and ```File Format: Application```.
+In my case I haven't configured any other options while saving as the package runs well for me as I've described above, but feel free to play around!
